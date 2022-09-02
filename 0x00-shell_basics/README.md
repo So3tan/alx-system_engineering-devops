@@ -1,1 +1,1 @@
-list of your current directory
+the working directory to the user’s home directory
