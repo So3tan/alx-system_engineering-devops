@@ -1,1 +1,1 @@
-the working directory to the user’s home directory
+long list of current directory
