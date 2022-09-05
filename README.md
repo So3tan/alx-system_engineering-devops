@@ -1,2 +1,1 @@
-Shell basics tasks
-Shell redirection Readme
+shell redirection readme
